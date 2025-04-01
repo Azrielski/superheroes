@@ -10,37 +10,37 @@ The Superheroes API is a Flask-based RESTful API designed to manage superheroes 
 
 ## Features
 
-# Retrieve a list of all heroes
+ Retrieve a list of all heroes
 
-# Retrieve a specific hero and their associated powers
+ Retrieve a specific hero and their associated powers
 
-# Retrieve all available powers
+ Retrieve all available powers
 
-# Retrieve details of a specific power
+ Retrieve details of a specific power
 
-# Update the description of a power
+ Update the description of a power
 
-# Assign a power to a hero with a specified strength
+ Assign a power to a hero with a specified strength
 
 ## Technologies Used
 
-# Python (Flask, SQLAlchemy)
+ Python (Flask, SQLAlchemy)
 
-# SQLite (Database)
+ SQLite (Database)
 
-# Flask-Migrate (Database migrations)
+ Flask-Migrate (Database migrations)
 
-# Thunder Client/Postman (API testing)
+ Thunder Client/Postman (API testing)
 
-## Installation
+# Installation
 
-# Prerequisites
+ Prerequisites
 
-# Python 3.x installed
+ Python 3.x installed
 
-## Virtual environment setup (recommended)
+ Virtual environment setup (recommended)
 
-## Steps
+# Steps
 
 Clone this repository:
 
